@@ -10,9 +10,9 @@ An AI-powered chatbot that answers user queries based on indexed documents using
                          +---------------------------+
                          |     Streamlit UI (app.py)  |
                          |  - Chat with streaming     |
-                         |  - Source citations         |
-                         |  - Conversation memory      |
-                         |  - Sidebar (model info)     |
+                         |  - Source citations        |
+                         |  - Conversation memory     |
+                         |  - Sidebar (model info)    |
                          +------------+--------------+
                                       |
                           +-----------v-----------+
